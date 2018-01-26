@@ -1,0 +1,12 @@
+body{
+	margin:0
+}
+header, footer{
+	padding: 3%; background:green; text-align: center;
+}
+header h2{
+	margin:0; padding: 0;
+}
+section{
+	padding: 3%; background:red;
+}
